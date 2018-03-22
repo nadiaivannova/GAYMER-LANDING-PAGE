@@ -23,19 +23,22 @@ body {
   -----------------------------------------*/
 
 .header {
-  width: 100%;
-  height: 25%;
+  max-width: 50%;
+  height: auto;
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 10%;
   margin-bottom: 0%;
 }
 
+.header img {
+  max-width: 80%;
+  height: auto;
+}
 /* Shop
 -----------------------------------------*/
 .ECOM{
-  width: 100%;
-  height: 25%;
+  max-width: 100%;
   margin-left: 25%;
   margin-right: 25%;
   margin-top: 5%;
@@ -43,7 +46,7 @@ body {
 }
 
 .SHOP {
-  width: 100%;
+  max-width: 100%;
   margin: 0%;
   padding: 0%;
 }
@@ -53,8 +56,8 @@ body {
 
 .social {
   float: left;
-  width: 100%;
-  height: 25%;
+  max-width: 100%;
+  height: auto;
   margin-left: 25%;
   margin-right: 25%;
   padding: 20px 0 20px 20px;
