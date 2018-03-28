@@ -92,14 +92,20 @@ img.line {
 
 .copyright {
   float: right;
+  padding: 2%;
 }
 
 .button {
   width: 75%;
   height: auto;
-}
-
-.envelope {
   float: left;
   width: 10%;
+}
+
+.contact {
+    float:left;
+ }
+
+ .email {
+   padding: 10%;
  }
