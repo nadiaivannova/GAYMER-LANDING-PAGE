@@ -53,7 +53,7 @@ body {
    height: auto;
    margin-left: 10%;
    margin-right: 10%;
-   line-height: 300%;
+   line-height: 250%;
 }
 
 /* EVENTS
@@ -65,7 +65,7 @@ body {
   margin-top: 5%;
   margin-left: 10%;
   margin-right: 10%;
-  line-height: 300%;
+  line-height: 250%;
 }
 
 h1 {
@@ -84,8 +84,6 @@ img.logo-1 {
   height: auto;
 }
 
-
-
   /* Social Media
 -----------------------------------------*/
 
@@ -93,7 +91,8 @@ img.logo-1 {
   float: left;
   max-width: 100%;
   height: auto;
-  margin: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
   padding: 20px 0 20px 20px;
   display: block;
   clear: both;
